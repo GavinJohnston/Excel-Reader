@@ -1,0 +1,16 @@
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader.deps.json
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader.runtimeconfig.json
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader.runtimeconfig.dev.json
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader.dll
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ref/ExcelReader.dll
+/Users/gavin/Projects/ExcelReader/bin/Debug/net5.0/ExcelReader.pdb
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.csproj.AssemblyReference.cache
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.AssemblyInfoInputs.cache
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.AssemblyInfo.cs
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.csproj.CoreCompileInputs.cache
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.dll
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ref/ExcelReader.dll
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.pdb
+/Users/gavin/Projects/ExcelReader/obj/Debug/net5.0/ExcelReader.genruntimeconfig.cache
